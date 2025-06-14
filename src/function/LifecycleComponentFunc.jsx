@@ -48,8 +48,8 @@ const LifecycleComponentFunc = () => {
             })
 
             const data = await response.json()
-       
-            
+
+
             setData(data)
 
         }
